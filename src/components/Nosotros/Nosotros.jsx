@@ -1,4 +1,5 @@
 import Nosotro from "../../assets/fuerza.webp";
+
 const Nosotros = () => {
   return (
     <>
