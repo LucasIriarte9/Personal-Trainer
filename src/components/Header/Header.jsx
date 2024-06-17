@@ -3,7 +3,7 @@ export function Header() {
     <div className="flex flex-col items-center mx-auto md:flex-row md:justify-between md:mx-8 xl:mx-24">
       <section>
         <a href="/">
-          <img className="size-32" src="../../public/gymIcon.webp" alt="" />
+          <img className="size-32" src="../public/gymIcon.webp" alt="logo" />
         </a>
       </section>
       <section className="flex items-center">

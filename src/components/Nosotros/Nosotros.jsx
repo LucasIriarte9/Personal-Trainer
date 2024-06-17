@@ -8,7 +8,7 @@ const Nosotros = () => {
         <section>
           <img
             className="rounded lg:max-w-[40vw]"
-            src="../../public/fuerza.webp"
+            src="../public/fuerza.webp"
             alt="Hobre haciendo ejercicio"
           />
         </section>
