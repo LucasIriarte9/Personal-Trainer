@@ -1,13 +1,11 @@
+import Logo from "../../assets/gymIcon.webp";
+
 export function Header() {
   return (
     <div className="flex flex-col items-center mx-auto md:flex-row md:justify-between md:mx-8 xl:mx-24">
       <section>
         <a href="/">
-          <img
-            className="size-32"
-            src="../../../public/gymIcon.webp"
-            alt="logo"
-          />
+          <img className="size-32" src={Logo} alt="logo" />
         </a>
       </section>
       <section className="flex items-center">

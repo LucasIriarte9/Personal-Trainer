@@ -1,3 +1,4 @@
+import Nosotro from "../../assets/fuerza.webp";
 const Nosotros = () => {
   return (
     <>
@@ -8,7 +9,7 @@ const Nosotros = () => {
         <section>
           <img
             className="rounded lg:max-w-[40vw]"
-            src="../public/fuerza.webp"
+            src={Nosotro}
             alt="Hobre haciendo ejercicio"
           />
         </section>
